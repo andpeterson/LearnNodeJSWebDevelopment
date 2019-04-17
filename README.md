@@ -41,7 +41,7 @@ and click on the Fork icon in on the top right of the page. This will copy the e
 Once the repo has been forked you'll need to click on the green `Clone or download` button on the page. Then select `Open in Desktop`.
 This will open GitHub Desktop and it will ask you where you want to clone the repo to. After you have selected your directory continue through the propmt and the client will now clone the repo to your machine.
 
-### Hello World
+## Hello World
 Lets get started on a Hello World Assignment!
 Open this folder in VS Code by launching VS Code and selecting `open folder...` this will open the folder that we will be working in.
 Once in the folder you should notice all the files in this directory on the left side. Let's begin
@@ -59,9 +59,9 @@ I hope that all made sense. Again if you need help feel free to reach out and I 
 
 Now that you are setup and ready its time to begin learning how to do web development! Follow the steps in Workflow to get started on the first assignment.
 
-### Git Resouces
+## Git Resouces
 
-### Workflow
+## Workflow
 A slimmed down form of this section will be included in each Assignment as to remind you as to what to do next.
 1. Open GitHub Desktop and ensure that all changes have been commit on the left panel
 2. Select the button at the top of the page that says Current branch: master and select Assignment1
@@ -80,7 +80,7 @@ A slimmed down form of this section will be included in each Assignment as to re
 13. Rinse and repeat
 
 
-### Workflow
+### Workflow Slim
 A slimmed down form of this section will be included in each Assignment as to remind you as to what to do next.
 1. In GitHub Desktop Switch branches to the next assignent
 2. npm install
