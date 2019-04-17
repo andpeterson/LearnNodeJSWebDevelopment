@@ -10,7 +10,7 @@ I have also chosen to use git as my way of teaching this course so you will hope
 In this intro I plan to go over my recommended setup as of April of 2019. With how fast tech changes tools and technologies are always changing as well so try your best to keep ontop of it. I believe in you! Next I will go over your typical workflow and how it should look. After that I will go over how to upload your code and get it verified by me, Andrew.
 
 As a note this class is self-taught. After the setup I'll be providing links to resources and basic help in the READMEs but most of the work will be on you. The challenges in each Assignment will be for you to figure out how to accomplish. 
-If you'd like extra help feel free to reach out to me at learnNode@andpeterson.com or leave an issue on the GitHub of this class.
+If you'd like extra help feel free to reach out to me at learnNode@andpeterson.com or leave an issue on the GitHub of this class with a question tag.
 
 ## Setup
 Let's begin with the programs:
