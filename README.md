@@ -25,8 +25,9 @@ A slimmed down form of this section will be included in each Assignment as to re
 - Learn how to format a page's content with CSS
 - Learn how to modify html using JS
 - Learn how to start a NodeJS application
-- Learn how to create issues on GitHub
-- Learn how to merge-request on GitHub
+
+## Advice
+- To see webpage open your browser and in the url bar type: `localhost`. This will show you 
 
 ## Research
 - 
@@ -44,3 +45,4 @@ A slimmed down form of this section will be included in each Assignment as to re
 
 
 ## Extra Challenges
+- Look through app.js and see if you can pick up what its doing and what it's used for.
