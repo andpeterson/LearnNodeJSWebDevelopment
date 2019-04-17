@@ -1,11 +1,26 @@
-# LearnNodeJSWebDevelopment
+# Assignment 1 - Building a BIO
 
-## Setup
-- I would recommend using GitHub Desktop or a related program for retrieving assingments from GitHub
-- I would recommend using VSCode for editing and runnings server
-- Install NodeJS from online
+## Outcomes
+- Learn what an HTML, CSS, and JavaScript files do
+- Learn basic HTML, CSS, and Javascript syntax
+- Learn how to make text and images appear on a webpage
+- Learn how to format a page's content with CSS
+- Learn how to modify html using JS
+- Learn how to start a NodeJS application
+- Learn how to create issues on GitHub
+- Learn how to merge-request on GitHub
 
-## Workflow
-- I would suggest forking the repo to your own account then cloning that repo to your own workstation
-- You can then begin working on the assignments
-- When you are done: commit your work to your repo and do a merge request to get Andrew's attention
+## Research
+- 
+
+## To-do
+- Dig through provided links to better build your understanding
+- Update Title tags in HTML page to include a unique title for your page
+- Add a header tag with placeholder text for your name to be added later
+- Add an image that best represents you
+- Add a couple paragraphs to teach the reader a few things about you
+- Modify the CSS file to change the page's background color, font size, family, and color
+- Modify the header's innerHTML using Javascript to insert your name into the page on window onload
+
+
+## Extra Challenges
