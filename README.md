@@ -21,6 +21,8 @@
 - Add a couple paragraphs to teach the reader a few things about you
 - Modify the CSS file to change the page's background color, font size, family, and color
 - Modify the header's innerHTML using Javascript to insert your name into the page on window onload
+- Commit changes to git repo
+- Pull-request changes to get code checked
 
 
 ## Extra Challenges
