@@ -90,3 +90,6 @@ A slimmed down form of this section will be included in each Assignment as to re
 6. Pull-request
 7. Make modifications according to feedback (4-6)
 8. Rinse and repeat
+
+If you are enjoying the class so far feel free to support the creator
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=FDNMZNKLK7GZL&currency_code=USD&source=url)
