@@ -48,4 +48,5 @@ A slimmed down form of this section will be included in each Assignment as to re
 - Look through app.js and see if you can pick up what its doing and what it's used for.
 
 If you are enjoying the class so far feel free to support the creator
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=FDNMZNKLK7GZL&currency_code=USD&source=url)
