@@ -19,6 +19,7 @@ Let's begin with the programs:
 - [Browser](https://www.google.com/chrome/)
 - [Text Editor](https://code.visualstudio.com/)
 - [Git Client](https://desktop.github.com/)
+
 I linked all my recommended tools for these various programs. If you'd like to use a different text editor, git client, or browser thats fine, just know that the instructions may be a little different for you and ensure that they all work for the purpose of this class.
 
 Once you have all your tools installed let's setup your work environment
@@ -36,6 +37,7 @@ If you are using VS Code there are plenty of useful extensions you can use to ge
 ### Git Client and GitHub
 To get started you will need to signing or register for an account on [GitHub](https://github.com/). Once signed in goto [this repository](https://github.com/andpeterson/LearnNodeJSWebDevelopment) on GitHub
 and click on the Fork icon in on the top right of the page. This will copy the entire repo into your own GitHub account so any modifications made will be done on your specific account.
+
 Once the repo has been forked you'll need to click on the green `Clone or download` button on the page. Then select `Open in Desktop`.
 This will open GitHub Desktop and it will ask you where you want to clone the repo to. After you have selected your directory continue through the propmt and the client will now clone the repo to your machine.
 
@@ -76,9 +78,6 @@ A slimmed down form of this section will be included in each Assignment as to re
 11. I'll provide feedback in the comment section of the request.
 12. Once you are happy with what you got out of the assignment move onto the next one.
 13. Rinse and repeat
-
-.Read through the Resources provided in the README to learn the skills needed in the chapter
-. If you are feeling like you need some more work on the content of the assignment do some challenges to help solidify the skills
 
 
 ### Workflow
